@@ -1,0 +1,11 @@
+for(var i= 0;i< 101;i++) {
+   if(i%3== 0 and i%5== 0) {
+       printLine("FizzBuzz");
+   }el if(i%3!= 0 and i%5==0) {
+     printLine("Buzz");
+   }el if(i%3== 0 and i%5!= 0) {
+     printLine("Fizz");
+   }el   {
+    printLine(i);
+   }
+}

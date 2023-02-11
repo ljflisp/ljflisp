@@ -1,0 +1,6 @@
+# dune run
+# OCAMLPARAM: unset
+# Workspace root: /home/runner/ljflisp3
+$ /nix/store/jd1y449cf66yx5d1hwyjvc4562b1p1am-coreutils-9.0/bin/nproc > /tmp/dune066cfd.output 2> /dev/null
+# Auto-detected concurrency: 6
+# disable binary cache

@@ -1,0 +1,23 @@
+//hello,world
+Gabby is functional and dynamic programming language.
+1.Gabby syntax:
+--1.(ooo "hello world")
+--2.(1...10)#3628800
+--3.[123456789]表示不同数字"1" "2" "3" "4" "5" "6"...
+--4.if x= 1 no need == if you want to add it ,it does not problem.
+--5. (..)表示范围,(...) does not exists!
+--6. no indentation level or scope
+pre:hello is equal to pre : world
+--7. (unexpected token) For example:
+total --func
+day  --param
+total day is equal to
+total
+day even though param yet another line was not corresponded with func,func automaticly read the next line as param when no param,if you want no param,you declare func without param when you def(Method:def xxx(none) or def xxx()no whitespace if you add whitespace is ok, its default is no param)
+2.Gabby cmd:
+--1.| ga | enter  Gabby REPL.
+--2.| ga build -o main main.ga|表示编译ga文件,输出编译文件main,在bash中用|./main|可以查看结果
+--3.| ga run 1.ga 2.ga or another txt,python文件|可以进行混合编程,支持面向对象编程.
+--4. |$ga| ga do a good job.Please select your env and tools:oop||fp gady||anby
+
+Finally,good luck to use gabby programming!
